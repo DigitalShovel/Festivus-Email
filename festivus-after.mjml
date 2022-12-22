@@ -1,0 +1,119 @@
+<mjml>
+  <mj-body background-color="#307fe2">
+    <mj-section background-color="#fff" padding-bottom="0">
+      <mj-column>
+        <mj-text font-family="Inter, Roboto, Helvetica, sans-serif" font-size="24px" font-weight="800" letter-spacing="-1px" color="#102A43" line-height="20px" align="center" css-class="festivus-text">Festivus has ended...</mj-text>
+        <mj-text font-family="Inter, Roboto, Helvetica, sans-serif" font-size="24px" font-weight="800" letter-spacing="-1px" color="#102A43" line-height="0" align="center" css-class="festivus-text">but our holiday break is almost here!</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding-bottom="0px">
+      <mj-column>
+        <mj-image src="ds_festivus_thank-you.png" alt="Digital Shovel Festivus Flyer" border-radius="10px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding-bottom="0px" padding-top="0px">
+      <mj-column width="20px">
+        <mj-text font-family="Inter, Roboto, Helvetica, sans-serif" font-size="24px" font-weight="800" letter-spacing="-1px" color="#EF4136" line-height="17px" align="center">•</mj-text>
+      </mj-column>
+
+      <mj-column width="20px">
+        <mj-text font-family="Inter, Roboto, Helvetica, sans-serif" font-size="24px" font-weight="800" letter-spacing="-1px" color="#00A651" line-height="17px" align="center">•</mj-text>
+      </mj-column>
+
+      <mj-column width="50px">
+        <mj-text font-family="Inter, Roboto, Helvetica, sans-serif" font-size="24px" font-weight="800" letter-spacing="-1px" color="#FFD400" line-height="17px" align="center">•</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding-top="0px" padding-bottom="0">
+      <mj-column>
+        <mj-text font-family="Inter, Roboto, Helvetica, sans-serif" font-size="14px" color="#102A43" line-height="19px" padding-bottom="0">Thank you to everyone who helped make our holiday party such a success! It was great to come together, celebrate the end of the year with good food, good company, and some festive cheer!</mj-text>
+
+        <mj-text font-family="Inter, Roboto, Helvetica, sans-serif" font-size="14px" color="#102A43" line-height="19px" padding-bottom="0">For anyone who used the Uber Voucher but got charged on their card please forward a copy of your uber receipt to <a style="color:#307fe2;" href="mailto:acct@digitalshovel.com">acct@digitalshovel.com</a> for reimbursement of your ride home.</mj-text>
+
+        <mj-text font-family="Inter, Roboto, Helvetica, sans-serif" font-size="14px" color="#102A43" line-height="19px" font-weight="600" padding-bottom="20px">Congratulations to those who won a prize at the raffle, we hope you all enjoyed the participating in the festivities!</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#F0F4F8" padding-top="10px" padding-bottom="10px">
+      <mj-column>
+        <mj-text font-family="Inter, Roboto, Helvetica, sans-serif" font-size="14px" color="#102A43" line-height="19px" padding-bottom="0">If you have any photos taken at Festivus we would love to see them and have them apart of our <span style="font-weight: 600">Digital Shovel 5 Year anniversary in January, 2023!</span> We will be hosting <span style="font-weight: 600; color: #307fe2">#ds5Y</span> at Cedar Brae Golf Club. Stay tuned for more information about the dates.</mj-text>
+
+        <mj-text font-family="Inter, Roboto, Helvetica, sans-serif" font-size="14px" color="#102A43" line-height="19px">While logged into your work email, use <a style="color:#307fe2;" href="https://drive.google.com/drive/folders/1Bpb4zuF-2HmIblMTZrwRgOlITvlG7JGW?usp=share_link">this link</a> to make a folder with your name and upload to any photos you have. Alternatively you can email your photos to <a style="color:#307fe2;" href="mailto:n.panayotakos@digitalshovel.com">n.panayotakos@digitalshovel.com</a>.</mj-text>
+
+        <mj-text font-family="Inter, Roboto, Helvetica, sans-serif" font-size="14px" color="#102A43" line-height="19px">All the 360 Photobooth videos are available <a style="color:#307fe2;" href="https://event.photoboothto.com/gallery/X95bG?page=1">here</a> for you to download.</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding-top="10px" padding-bottom="20px">
+      <mj-column>
+        <mj-text font-family="Inter, Roboto, Helvetica, sans-serif" font-size="14px" color="#102A43" line-height="19px" padding-bottom="0"><span>Digital Shovel will be closed from December 24, 2022 to January 2, 2023.</span> Please check the table below for further details:</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#F0F4F8" padding-top="10px" padding-bottom="10px">
+      <mj-column>
+        <mj-table font-family="Inter, Roboto, Helvetica, sans-serif" font-size="12px">
+          <tr style="border-bottom:1px solid #D9E2EC;text-align:left">
+            <th style="padding: 0 15px 0 0;">Date</th>
+            <th style="padding: 0 15px;">Event</th>
+            <th style="padding: 0 0 0 15px;">Payment Info</th>
+          </tr>
+          <tr>
+            <td style="padding: 5px 15px 0 0;">Dec 26, 2022</td>
+            <td style="padding: 5px 15px 0;">Statutory Holiday</td>
+            <td style="padding: 5px 0 0 15px;">Holiday Pay: average of your last 4 weeks/20 days</td>
+          </tr>
+          <tr>
+            <td style="padding: 0 15px 0 0;">Dec 27, 2022</td>
+            <td style="padding: 0 15px;">Statutory Holiday</td>
+            <td style="padding: 0 0 0 15px;">Holiday Pay: average of your last 4 weeks/20 days</td>
+          </tr>
+          <tr>
+            <td style="padding: 0 15px 0 0;">Dec 28, 2022</td>
+            <td style="padding: 0 15px;">DS Closed</td>
+            <td style="padding: 0 0 0 15px;">Available Vacation Pay will be applied</td>
+          </tr>
+          <tr>
+            <td style="padding: 0 15px 0 0;">Dec 29, 2022</td>
+            <td style="padding: 0 15px;">DS Closed</td>
+            <td style="padding: 0 0 0 15px;">Available Vacation Pay will be applied</td>
+          </tr>
+          <tr>
+            <td style="padding: 0 15px 0 0;">Dec 30, 2022</td>
+            <td style="padding: 0 15px;">DS Closed</td>
+            <td style="padding: 0 0 0 15px;">Available Vacation Pay will be applied</td>
+          </tr>
+          <tr>
+            <td style="padding: 0 15px 0 0;">Jan 2, 2023</td>
+            <td style="padding: 0 15px;">Statutory Holiday</td>
+            <td style="padding: 0 0 0 15px;">Holiday Pay: average of your last 4 weeks/20 days</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding-top="10px" padding-bottom="0">
+      <mj-column>
+        <mj-text font-family="Inter, Roboto, Helvetica, sans-serif" font-size="14px" color="#102A43" line-height="19px" padding-bottom="0">We hope everyone has a wonderful holiday break and gets a chance to relax and recharge before we dive into the new year. Thank you all again for your hard work and dedication, and we to all we will be achieving together in the new year!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding-top="10px" padding-bottom="0">
+      <mj-column>
+        <mj-text font-family="Inter, Roboto, Helvetica, sans-serif" font-size="14px" color="#102A43" line-height="19px" padding-bottom="0">On behalf of the Digital Shovel we wish you, your family and loved ones a beautiful holiday season and a Happy New Year! We'll see you back January 3rd, 2023!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-image src="ds_out-of-office_winter-holiday_v3.png" alt="Digital Shovel Festivus Flyer" border-radius="5px" />
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
